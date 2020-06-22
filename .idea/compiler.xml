@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://D:/java/jdk1.8.0_71" includeSubdirectories="true" />
+    </excludeFromCompile>
+    <bytecodeTargetLevel target="8" />
+  </component>
+</project>
