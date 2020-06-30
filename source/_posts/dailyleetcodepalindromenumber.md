@@ -1,5 +1,6 @@
 title: daily leetcode - palindrome-number - !
 date: '2020-01-29 18:46:20'
+photos: https://img.hacpai.com/bing/20191113.jpg?imageView2/1/w/960/h/540/interlace/1/q/100
 updated: '2020-01-29 18:54:11'
 tags: [daily-leetcode]
 permalink: /articles/2020/01/29/1580294780003.html

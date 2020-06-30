@@ -1,5 +1,6 @@
 title: daily leetcode - longest-palindromic-substring - !
 date: '2020-01-29 18:35:45'
+photos: https://img.hacpai.com/bing/20180727.jpg?imageView2/1/w/960/h/540/interlace/1/q/100
 updated: '2020-02-04 13:11:37'
 tags: [daily-leetcode]
 permalink: /articles/2020/01/29/1580294145552.html

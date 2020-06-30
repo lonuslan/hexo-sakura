@@ -1,5 +1,6 @@
 title: daily leetcode - median-of-two-sorted-arrays - !
 date: '2020-01-29 18:30:40'
+photos: https://img.hacpai.com/bing/20171114.jpg?imageView2/1/w/960/h/540/interlace/1/q/100
 updated: '2020-01-29 18:53:15'
 tags: [daily-leetcode]
 permalink: /articles/2020/01/29/1580293839915.html
