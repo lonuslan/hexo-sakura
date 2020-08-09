@@ -44,7 +44,7 @@ social:
 
 # Algolia search
 algolia_search:
-  enable: true
+  enable: false
   hits:
     per_page: 6
 
@@ -55,7 +55,7 @@ algolia_search:
 
 # Local search
 local_search:
-  enable: true
+  enable: false
   labels:
     input_placeholder: Search for Posts
     hits_empty: "We didn't find any results for the search: ${query}" # if there are no result
@@ -148,7 +148,7 @@ post_meta:
 
 # wordcount (字數統計)
 wordcount:
-  enable: true
+  enable: false
   post_wordcount: true
   min2read: true
   total_wordcount: true
@@ -495,7 +495,7 @@ activate_power_mode:
 
 # Mouse click effects: fireworks (鼠標點擊效果: 煙火特效)
 fireworks:
-  enable: true
+  enable: false
   zIndex: 9999 # -1 or 9999
 
 # Mouse click effects: Heart symbol (鼠標點擊效果: 愛心)
